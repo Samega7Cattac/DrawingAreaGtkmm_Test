@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/main.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/main.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/main.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/main.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/MainWindow.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/MainWindow.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/MainWindow.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/BlockArea.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/BlockArea.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/BlockArea.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/BlockArea.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/DragAction.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/DragAction.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/DragAction.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/DragAction.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/NodeSelector.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/NodeSelector.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/NodeSelector.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/NodeSelector.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/TopologySort.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/TopologySort.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/TopologySort.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/TopologySort.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/TopologyRuleSet.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/TopologyRuleSet.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/TopologyRuleSet.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/TopologyRuleSet.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/LinkBuilder.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/LinkBuilder.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/LinkBuilder.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/LinkBuilder.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Camera.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Camera.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Camera.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Camera.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Graph/Graph.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/Graph.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/Graph.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Graph/Graph.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Graph/GraphAdjacencyMatrix.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/GraphAdjacencyMatrix.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/GraphAdjacencyMatrix.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Graph/GraphAdjacencyMatrix.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Graph/GraphNode.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/GraphNode.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Graph/GraphNode.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Graph/GraphNode.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/LinkLine.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/LinkLine.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/LinkLine.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/LinkLine.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgePoint.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgePoint.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgePoint.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgePoint.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeWidget.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeWidget.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeWidget.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeWidget.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeBlock.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeBlock.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeBlock.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeBlock.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeNode.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeNode.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeNode.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeNode.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeNodeSlot.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeNodeSlot.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeNodeSlot.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeNodeSlot.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeLink.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeLink.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeLink.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeLink.cpp.o"
+},
+{
+  "directory": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtkmm-4.0 -I/usr/lib/gtkmm-4.0/include -I/usr/include/pangomm-2.48 -I/usr/lib/pangomm-2.48/include -I/usr/include/giomm-2.68 -I/usr/lib/giomm-2.68/include -I/usr/include/glibmm-2.68 -I/usr/lib/glibmm-2.68/include -I/usr/include/cairomm-1.16 -I/usr/lib/cairomm-1.16/include -I/usr/include/sigc++-3.0 -I/usr/lib/sigc++-3.0/include -I/usr/include/gtk-4.0/unix-print -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/cairo -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/graphene-1.0 -I/usr/lib/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/fribidi -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/botan-2 -g -std=gnu++20 -o CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeOrthogonalLink.cpp.o -c /home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeOrthogonalLink.cpp",
+  "file": "/home/pedrovicente/projects/DrawingAreaGtkmm_Test/Widgets/DatabridgeOrthogonalLink.cpp",
+  "output": "CMakeFiles/test_drawingarea.dir/Widgets/DatabridgeOrthogonalLink.cpp.o"
+}
+]
